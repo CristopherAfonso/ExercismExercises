@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/isbn-verifier.dir/isbn_verifier_test.cpp.o CMakeFiles/isbn-verifier.dir/isbn_verifier.cpp.o CMakeFiles/isbn-verifier.dir/test/tests-main.cpp.o -o isbn-verifier 

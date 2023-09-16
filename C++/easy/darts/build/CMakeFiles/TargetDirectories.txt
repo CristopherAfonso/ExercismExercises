@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/darts/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/darts/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/darts/build/CMakeFiles/test_darts.dir
+/home/themaster/exercism/cpp/darts/build/CMakeFiles/darts.dir

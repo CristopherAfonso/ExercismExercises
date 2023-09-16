@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/perfect-numbers/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/perfect-numbers/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/perfect-numbers/build/CMakeFiles/test_perfect-numbers.dir
+/home/themaster/exercism/cpp/perfect-numbers/build/CMakeFiles/perfect-numbers.dir

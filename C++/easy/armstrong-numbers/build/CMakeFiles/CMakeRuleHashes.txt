@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c37924e32f3532b668a86c7a576482f8 CMakeFiles/test_armstrong-numbers

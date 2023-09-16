@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/themaster/exercism/cpp/beer-song/beer_song.cpp
+beer_song.h
+/home/themaster/exercism/cpp/beer-song/beer_song.h
+
+/home/themaster/exercism/cpp/beer-song/beer_song.h
+string
+-
+

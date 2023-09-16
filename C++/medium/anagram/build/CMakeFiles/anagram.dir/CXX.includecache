@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/themaster/exercism/cpp/anagram/anagram.cpp
+anagram.h
+/home/themaster/exercism/cpp/anagram/anagram.h
+
+/home/themaster/exercism/cpp/anagram/anagram.h
+string
+-
+vector
+-
+cctype
+-
+iostream
+-
+

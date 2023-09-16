@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/bob/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/bob/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/bob/build/CMakeFiles/test_bob.dir
+/home/themaster/exercism/cpp/bob/build/CMakeFiles/bob.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/perfect-numbers.dir/perfect_numbers_test.cpp.o CMakeFiles/perfect-numbers.dir/perfect_numbers.cpp.o CMakeFiles/perfect-numbers.dir/test/tests-main.cpp.o -o perfect-numbers 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/themaster/exercism/cpp/crypto-square/crypto_square.cpp
+crypto_square.h
+/home/themaster/exercism/cpp/crypto-square/crypto_square.h
+
+/home/themaster/exercism/cpp/crypto-square/crypto_square.h
+string
+-
+cctype
+-
+vector
+-
+iostream
+-
+

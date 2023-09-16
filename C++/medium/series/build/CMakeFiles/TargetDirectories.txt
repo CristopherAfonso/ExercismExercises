@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/series/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/series/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/series/build/CMakeFiles/test_series.dir
+/home/themaster/exercism/cpp/series/build/CMakeFiles/series.dir

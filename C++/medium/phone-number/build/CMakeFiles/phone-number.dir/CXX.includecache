@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/themaster/exercism/cpp/phone-number/phone_number.cpp
+phone_number.h
+/home/themaster/exercism/cpp/phone-number/phone_number.h
+
+/home/themaster/exercism/cpp/phone-number/phone_number.h
+regex
+-
+iostream
+-
+

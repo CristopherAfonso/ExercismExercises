@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/circular-buffer/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/circular-buffer/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/circular-buffer/build/CMakeFiles/test_circular-buffer.dir
+/home/themaster/exercism/cpp/circular-buffer/build/CMakeFiles/circular-buffer.dir

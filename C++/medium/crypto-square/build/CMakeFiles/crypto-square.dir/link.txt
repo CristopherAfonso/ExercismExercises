@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/crypto-square.dir/crypto_square_test.cpp.o CMakeFiles/crypto-square.dir/crypto_square.cpp.o CMakeFiles/crypto-square.dir/test/tests-main.cpp.o -o crypto-square 

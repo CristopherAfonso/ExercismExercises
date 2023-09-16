@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/all-your-base/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/all-your-base/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/all-your-base/build/CMakeFiles/test_all-your-base.dir
+/home/themaster/exercism/cpp/all-your-base/build/CMakeFiles/all-your-base.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/all-your-base.dir/all_your_base_test.cpp.o CMakeFiles/all-your-base.dir/all_your_base.cpp.o CMakeFiles/all-your-base.dir/test/tests-main.cpp.o -o all-your-base 

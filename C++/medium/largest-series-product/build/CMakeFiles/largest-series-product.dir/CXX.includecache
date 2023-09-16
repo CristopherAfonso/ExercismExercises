@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/themaster/exercism/cpp/largest-series-product/largest_series_product.cpp
+largest_series_product.h
+/home/themaster/exercism/cpp/largest-series-product/largest_series_product.h
+
+/home/themaster/exercism/cpp/largest-series-product/largest_series_product.h
+string
+-
+regex
+-
+

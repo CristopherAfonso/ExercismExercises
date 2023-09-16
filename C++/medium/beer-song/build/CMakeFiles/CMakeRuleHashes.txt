@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+541f120cf718349f13c2f79a24b8b406 CMakeFiles/test_beer-song

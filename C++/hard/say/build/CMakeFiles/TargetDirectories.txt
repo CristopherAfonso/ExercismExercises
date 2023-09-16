@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/say/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/say/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/say/build/CMakeFiles/test_say.dir
+/home/themaster/exercism/cpp/say/build/CMakeFiles/say.dir

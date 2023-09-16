@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+98cfed54f2aa1edd3f5be8dda3911de9 CMakeFiles/test_crypto-square

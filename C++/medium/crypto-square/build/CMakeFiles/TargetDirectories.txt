@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/crypto-square/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/crypto-square/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/crypto-square/build/CMakeFiles/test_crypto-square.dir
+/home/themaster/exercism/cpp/crypto-square/build/CMakeFiles/crypto-square.dir

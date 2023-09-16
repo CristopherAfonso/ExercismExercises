@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/secret-handshake/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/secret-handshake/build/CMakeFiles/test_secret-handshake.dir
+/home/themaster/exercism/cpp/secret-handshake/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/secret-handshake/build/CMakeFiles/secret-handshake.dir

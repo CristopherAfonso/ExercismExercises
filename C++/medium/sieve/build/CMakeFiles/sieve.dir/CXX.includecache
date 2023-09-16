@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/themaster/exercism/cpp/sieve/sieve.cpp
+sieve.h
+/home/themaster/exercism/cpp/sieve/sieve.h
+
+/home/themaster/exercism/cpp/sieve/sieve.h
+vector
+-
+iostream
+-
+

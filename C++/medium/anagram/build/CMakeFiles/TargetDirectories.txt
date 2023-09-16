@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/anagram/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/anagram/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/anagram/build/CMakeFiles/test_anagram.dir
+/home/themaster/exercism/cpp/anagram/build/CMakeFiles/anagram.dir

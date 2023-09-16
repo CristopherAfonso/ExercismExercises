@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/series.dir/series_test.cpp.o CMakeFiles/series.dir/series.cpp.o CMakeFiles/series.dir/test/tests-main.cpp.o -o series 

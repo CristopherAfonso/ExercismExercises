@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/word-count/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/word-count/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/word-count/build/CMakeFiles/test_word-count.dir
+/home/themaster/exercism/cpp/word-count/build/CMakeFiles/word-count.dir

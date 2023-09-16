@@ -1,0 +1,4 @@
+/home/themaster/exercism/cpp/sieve/build/CMakeFiles/rebuild_cache.dir
+/home/themaster/exercism/cpp/sieve/build/CMakeFiles/edit_cache.dir
+/home/themaster/exercism/cpp/sieve/build/CMakeFiles/test_sieve.dir
+/home/themaster/exercism/cpp/sieve/build/CMakeFiles/sieve.dir
